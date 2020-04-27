@@ -1,0 +1,7 @@
+[package]
+name = "fr-gui"
+version = "0.1.0"
+authors = ["DoctorVWA"]
+edition = "2018"
+
+[dependencies]
