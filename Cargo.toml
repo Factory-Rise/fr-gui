@@ -5,3 +5,4 @@ authors = ["DoctorVWA"]
 edition = "2018"
 
 [dependencies]
+SFML = "0.15.1"
